@@ -10,3 +10,6 @@ jax
 zac
 kkk
 hhh
+12
+36
+54
